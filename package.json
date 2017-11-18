@@ -4,7 +4,7 @@
   "description": "A web app to learn express and node",
   "main": "app.js",
   "scripts": {
-    "test": "node app.js"
+    "start": "node app.js"
   },
   "keywords": [
     "Travel",
@@ -14,7 +14,8 @@
   "author": "@meeshbhoombah",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "express3-handlebars": "^0.5.2"
   },
   "devDependencies": {},
   "repository": {
