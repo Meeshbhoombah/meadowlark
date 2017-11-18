@@ -1,6 +1,10 @@
 # proj
 .DS_Store
 
+# vim
+*.swp
+*.swo
+
 # Logs
 logs
 *.log
